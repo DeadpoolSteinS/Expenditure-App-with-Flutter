@@ -1,16 +1,15 @@
-# exp_note
+# Expenditure-App
+record and view your spending data every month, this application was created so you can find out what your money is running out for.
 
-A new Flutter project.
+### Features
+- using local storage
+- simple design
+- there is a chart to make it easier
 
-## Getting Started
+**RESULT**<br>
+- ### Demo
+![alt text](https://github.com/DeadpoolSteinS/Expenditure-App-with-Flutter/blob/master/readme/exp-flutter_1.jpg)
+![alt text](https://github.com/DeadpoolSteinS/Expenditure-App-with-Flutter/blob/master/readme/exp-flutter_form.jpg)
+![alt text](https://github.com/DeadpoolSteinS/Expenditure-App-with-Flutter/blob/master/readme/exp-flutter_report.jpg)<br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Terima Kasih
